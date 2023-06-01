@@ -9,4 +9,4 @@ about important metrics periodically.
 
 Message received at Slack
 
-![image](https://github.com/marayyy/Qure.ai/assets/114425969/57a9268d-c218-4462-93c0-7f839e7161a6)
+[![image](https://github.com/marayyy/Qure.ai/assets/114425969/57a9268d-c218-4462-93c0-7f839e7161a6)](https://drive.google.com/file/d/1riJcNu44QzXZ0y8x26kw_E1bKmPUy3va/view?usp=sharing)
